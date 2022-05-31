@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_ckks_matmul.dir/04_ckks_matmul.cpp.o  -o ../zx_bin/04_ckks_matmul  -Wl,-rpath,/usr/local/include/helib_pack/lib /usr/local/include/helib_pack/lib/libhelib.a /usr/local/include/helib_pack/lib/libntl.so /usr/local/include/helib_pack/lib/libgmp.so -lpthread 

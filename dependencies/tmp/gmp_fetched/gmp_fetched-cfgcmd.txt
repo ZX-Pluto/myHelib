@@ -1,0 +1,1 @@
+cmd='<SOURCE_DIR>/configure;--prefix=/home/Helib/HElib/helib_pack;--enable-shared=yes;--disable-static;--with-readline=no;CXX=/usr/bin/c++ ;CC=/usr/bin/cc '

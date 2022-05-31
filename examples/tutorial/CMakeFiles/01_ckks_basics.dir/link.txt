@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01_ckks_basics.dir/01_ckks_basics.cpp.o  -o ../zx_bin/01_ckks_basics  -Wl,-rpath,/usr/local/include/helib_pack/lib /usr/local/include/helib_pack/lib/libhelib.a /usr/local/include/helib_pack/lib/libntl.so /usr/local/include/helib_pack/lib/libgmp.so -lpthread 
